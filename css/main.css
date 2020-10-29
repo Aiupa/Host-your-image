@@ -1,0 +1,5 @@
+h1, .container-fluid {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
